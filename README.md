@@ -264,7 +264,7 @@ $ cd /data/wwwroot/freenom/ && php run
 | TELEGRAM_BOT_ENABLE | 是否启用`Telegram Bot`推送功能 | false | 否 | `true`：启用<br>`false`：不启用<br>默认不启用，如果设为`true`，则必须设置上面的`TELEGRAM_CHAT_ID`和`TELEGRAM_BOT_TOKEN`变量 |
 | NOTICE_FREQ | 通知频率 | 1 | 否 | `0`：仅当有续期操作的时候<br>`1`：每次执行 |
 
-（注：你只用关注上面表格中的必须项，非必须项可不设置，将保持默认值。更多相关变量的含义、格式以及默认值，请参考本项目的`.env.example`文件内的注释）
+（注：你只用关注上面表格中的必须项，非必须项可不设置，将保持默认值。更多相关变量的含义、格式以及默认值，请参考本项目的`.env.example`文件内的注释s）
 
 </details>
 
